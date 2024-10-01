@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./output%20image/QR-code-component%20image.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://qr-component-brown.vercel.app/)
+- Solution URL: [Qrcomponent](https://qr-component-brown.vercel.app/)
 
 
 ### Built with
