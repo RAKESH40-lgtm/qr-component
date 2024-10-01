@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.card {
+    width: 17%;
+    border: 1px solid black;
+    padding: 1% 1% 2% 1%;;
+    margin: 347px auto;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 1px 1px 1px rgba(1,2,1);
+}
+
+img {
+    width: 94%;
+    height: 200px;
+    border-radius: 12px;
+}
+h3{
+    margin-top: 4%;
+}
+p{
+    margin-top: 4%;
+    font-size: 15px;
+}
